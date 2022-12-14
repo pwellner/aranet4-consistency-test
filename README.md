@@ -35,7 +35,7 @@ The standard deviation of these differences from the total rolling mean is ~22 p
 
 ## Conclusion
 
-We expect roughly 95% of our Aranet4 measurements to be accurate within +/- 22 ppm
+We expect roughly 95% of Aranet4 measurements to be consistent between each other within +/- 22 ppm
 
 
 ## Feedback please!
