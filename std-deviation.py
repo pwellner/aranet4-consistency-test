@@ -31,7 +31,8 @@ diffs = y_sorted - yma[0]
 diffs = diffs[~np.isnan(diffs)]
 
 print("Standard deviation relative to total moving average = ", np.std(diffs))
-print(np.quantile(diffs, [0, 0.25, 0.5, 0.75, 1]))
+print("quartiles: ", np.quantile(diffs, [0, 0.25, 0.5, 0.75, 1]))
+print("95%: ", np.quantile(diffs, [0, 0.025, 0.975, 1]))
 
 plt.hist(diffs, bins=100)
 plt.show()
