@@ -69,7 +69,7 @@ Zooming in to a section of the the data where CO2 levels were rising rapidly, it
 
 ## Conclusion from Experiment 2
 
-Keeping these CO2 sensors in a leather purse does not prevent them from measuring accurately.  It can, however, delay the measurements from anywhere between 0 and 10 minutes.
+Keeping these CO2 sensors in a leather purse does not prevent them from measuring accurately.  It does, however, delay measurement responsiveness to sharp changes by around 10 minutes.
 
 # Feedback?
 Do these conclusions seem reasonable?  Please check the data and the code, and let me know in an issue.
